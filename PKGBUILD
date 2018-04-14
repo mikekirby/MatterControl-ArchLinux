@@ -3,7 +3,7 @@
 
 pkgname=mattercontrol-git
 _pkgname=MatterControl
-pkgver=1.7.4.r28.fa9f5f9e
+pkgver=1.7.4.r28.fa9f5f9e.mk
 pkgrel=1
 pkgdesc="Software solution for 3D printers"
 arch=("i386" "x86_64")
