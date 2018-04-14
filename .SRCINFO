@@ -1,6 +1,6 @@
 pkgbase = mattercontrol-git
 	pkgdesc = Software solution for 3D printers
-	pkgver = 1.7.4.r28.fa9f5f9e
+	pkgver = 1.7.4.r28.fa9f5f9e.mk
 	pkgrel = 1
 	url = http://www.mattercontrol.com
 	install = mattercontrol.install
@@ -15,7 +15,7 @@ pkgbase = mattercontrol-git
 	optdepends = mattercontrol-plugins: Closed source plugins for cloud functionality
 	provides = mattercontrol
 	conflicts = mattercontrol
-	source = git://github.com/MatterHackers/MatterControl.git#branch=1.7
+	source = git://github.com/mikekirby/MatterControl.git#branch=1.7
 	source = mattercontrol
 	source = mattercontrol.desktop
 	source = mattercontrol.png
