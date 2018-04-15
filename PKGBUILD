@@ -18,7 +18,7 @@ install="mattercontrol.install"
 _buildver=1.7.0.8527
 _projecttoken=ag9zfm1hdHRlcmNvbnRyb2xyFAsSB1Byb2plY3QYgICAiOCSzAsM
 _buildtoken=ag9zfm1hdHRlcmNvbnRyb2xyQQsSB1Byb2plY3QYgICAiOCSzAsMCxINUHVibGljUmVsZWFzZRiAgICgsdyLCgwLEgZVcGxvYWQYgICAoK3hngoM
-source=(git://github.com/MatterHackers/MatterControl.git#branch=1.7
+source=(git://github.com/mikekirby/MatterControl.git#branch=1.7
 	'mattercontrol'
 	'mattercontrol.desktop'
 	'mattercontrol.png'
